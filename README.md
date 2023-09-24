@@ -5,7 +5,7 @@ This GitHub repository contains the code and data for a Big Data Machine Learnin
 
 The repository is organized as follows:
 
-data: This directory contains the dataset file mpst_full_data.csv, which can be downloaded from Kaggle (https://www.kaggle.com/datasets/cryptexcode/mpst-movie-plot-synopses-with-tags) and placed here.
+data: This directory contains the dataset file mpst_full_data.csv, which can be downloaded from Kaggle (https://www.kaggle.com/datasets/cryptexcode/mpst-movie-plot-synopses-with-tags).
 
 notebooks: The Jupyter Notebook movie_plot_multi_label_classifier.ipynb in this directory serves as the primary code file for the project. 
 
