@@ -9,7 +9,7 @@ data: This directory contains the dataset file mpst_full_data.csv, which can be 
 
 notebooks: The Jupyter Notebook movie_plot_multi_label_classifier.ipynb in this directory serves as the primary code file for the project. You'll also find the notebook available HTML formats (movie_plot_multi_label_classifier.html).
 
-README.md: The project's README file provides an overview of the project and other relevant information.
+README.md: The project's README file provides an overview of the project and its structured layout.
 
 ## Project Structure
 ### 1) Data Exploration
