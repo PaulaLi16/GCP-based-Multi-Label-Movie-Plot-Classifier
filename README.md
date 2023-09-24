@@ -22,9 +22,8 @@ To enable customized tag classification, the data was restructured through pivot
 
 Addressing the challenge of multi-label classification, ten models were created using each NLP pipeline. These models employed the Logistic Regression algorithm to classify movies into the top 10 most popular tags. Subsequently, validation scores were computed for each of these ten models. Below, you can find an example of the final output, presenting the results of these ten ML models that utilized the NLP pipeline with Word2Vec:
 
-+----------------+--------+------+
 |      model_name|accuracy|    F1|
-+----------------+--------+------+
+|----------------|--------|------|
 |          murder|  0.7012|0.7075|
 |        violence|  0.7437|  0.76|
 |       flashback|  0.7102|0.7916|
@@ -35,7 +34,7 @@ Addressing the challenge of multi-label classification, ten models were created 
 |          comedy|  0.8204|0.8747|
 |     suspenseful|  0.8911|0.9224|
 |good versus evil|  0.9188|0.9334|
-+----------------+--------+------+
+
 
 ### 3) Inference
 Synopsis data for a minimum of 10 recent movies (from 2020 to the present) was gathered from sources including IMDb and Wikipedia. Utilizing the ML models developed earlier, an analysis was conducted to determine which of the 10 popular tags were applicable to these movies. Based on the results, the hashingTF approach employed in Model yielded the most accurate and multifaceted tag predictions for inference data.
