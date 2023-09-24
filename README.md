@@ -1,7 +1,7 @@
 # GCP-based-Multi-Label-Movie-Plot-Classifier
 
 ## Overview
-This GitHub repository contains the code and data for a Big Data Machine Learning project aimed at solving the multi-label movie plot classification problem. The project leverages PySpark to build a robust NLP pipeline and classification models for predicting multiple movie tags. It is executed on Google Cloud Platform (GCP) DataProc, utilizing a big data cluster.
+This GitHub repository contains the code for a Big Data Machine Learning project aimed at solving the multi-label movie plot classification problem. The project leverages PySpark to build a robust NLP pipeline and classification models for predicting multiple movie tags. It is executed on Google Cloud Platform (GCP) DataProc, utilizing a big data cluster.
 
 The repository is organized as follows:
 
