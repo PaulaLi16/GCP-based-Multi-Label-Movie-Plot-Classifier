@@ -7,7 +7,7 @@ The repository is organized as follows:
 
 data: This directory contains the dataset file mpst_full_data.csv, which can be downloaded from Kaggle (https://www.kaggle.com/datasets/cryptexcode/mpst-movie-plot-synopses-with-tags) and placed here.
 
-notebooks: The Jupyter Notebook movie_plot_multi_label_classifier.ipynb in this directory serves as the primary code file for the project. You'll also find the notebook available HTML formats (movie_plot_multi_label_classifier.html).
+notebooks: The Jupyter Notebook movie_plot_multi_label_classifier.ipynb in this directory serves as the primary code file for the project. 
 
 README.md: The project's README file provides an overview of the project and its structured layout.
 
